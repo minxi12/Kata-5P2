@@ -10,7 +10,7 @@ import kata05p2.view.*;
 public class Kata05P2{
 
     public static void main(String[] args) throws IOException {
-        String nameFile = "C:/Users/Lou Minxi/Documents/NetBeansProjects/Kata04_44/email.txt";
+        String nameFile = "C:/Users/Lou Minxi/Documents/NetBeansProjects/Kata05P2/email.txt";
         input(nameFile);
     }
 
